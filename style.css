@@ -1,3 +1,15 @@
-p {
-    background-color: red
+* {
+    color: brown
+}
+li {
+    color: fuchsia
+}
+.jatkuu {
+    color: red
+}
+h1 {
+    color: blue
+}
+a {
+    color:blue
 }
