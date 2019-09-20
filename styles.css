@@ -2,7 +2,11 @@
     width: 200px;
     height: 100px;
     background-color: red;
-    position: sticky;
+    position: relative;
+    text-align: center;
+    top: 10px;
+    padding: 20px 0;
+    border: 8px solid green;
     
 }
 .second-box-container {
@@ -10,8 +14,11 @@
     height: 100px;
     background-color: yellow;
     position: relative;
-    left: 230px;
-    top: -117px
+    text-align: center;
+    left: 240px;
+    top: -147px;
+    padding: 20px 0;
+    border: 8px solid red;
        
 }
 .third-box-container {
@@ -19,12 +26,23 @@
     height: 100px;
     background-color: green;
     position: relative;
-    left: 460px;
-    top: -234px
-    
+    left: 480px;
+    top: -304px;
+    text-align: center;
+    padding: 20px 0;
+    border: 8px solid yellow;
+        
 }
 .tilanvaraajaboxi {
     position: relative;
     height: 120px;
 
+}
+p {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    color: blue;
+    
+    
 }
