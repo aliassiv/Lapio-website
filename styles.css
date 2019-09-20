@@ -1,0 +1,30 @@
+.first-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    position: sticky;
+    
+}
+.second-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    position: relative;
+    left: 230px;
+    top: -117px
+       
+}
+.third-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    position: relative;
+    left: 460px;
+    top: -234px
+    
+}
+.tilanvaraajaboxi {
+    position: relative;
+    height: 120px;
+
+}
