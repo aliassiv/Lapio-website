@@ -1,15 +1,32 @@
-* {
-    color: brown
-}
-li {
-    color: fuchsia
+body {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 45em;
+    padding: 4em 1em;    
 }
 .jatkuu {
-    color: red
+    color: rgb(85, 41, 47);
+    text-align: center
 }
 h1 {
-    color: blue
+    color: grey;
+    text-align: center;
+    al
 }
-a {
-    color:blue
+
+.henkilo {
+    font-style: italic;
+    background-color: lightgray;
+    padding: 5px;
+}
+h3 {
+    padding: 15px 0 0 0;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
 }
